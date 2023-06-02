@@ -1,0 +1,1 @@
+export const API_OF_MOVIE="https://api.tvmaze.com/search/shows?q=all"
